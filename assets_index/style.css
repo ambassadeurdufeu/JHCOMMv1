@@ -1,0 +1,66 @@
+nav{
+	background-color:#1C5097;
+	height: 100px;
+}
+
+body {
+	widt: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+p{
+	margin:0px;
+	padding: 0px;
+
+}
+
+*{
+	font-family:'PT Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+#header{
+	text-align: center;
+	color:black;
+	front-zise:24px;
+}
+
+.text-red{
+	color: red;
+	font-size: 24px;
+	text-align: center;
+}
+
+.text-blue{
+	color:blue;
+	font-size: 22px;
+	text-align: center;
+
+}
+
+.blue{
+	background: #74B1DC;
+	width: 25%;
+	height: 400px;
+	padding:16px;
+	margin:16px;
+	border: red 1px soild;
+}
+
+.yelow{
+	background: #F75F5F;
+	height: 200px;
+	width: 25%;
+	margin:16px;
+
+}
+
+.container{
+	background-color: black;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-direction: center;
+}
+
